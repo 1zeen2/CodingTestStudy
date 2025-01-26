@@ -20,7 +20,7 @@ public class Solution {
             System.out.println("0으로 시작할 수 없습니다. 다시 입력해주세요.");
             return 0;
         }
-        
+
         StringBuilder sb = new StringBuilder();
             
         while(0 < n) {
