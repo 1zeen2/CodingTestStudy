@@ -11,7 +11,7 @@ public class Main {
 		
 		long[] result = sol.solution(13, 5);
 		
-		// 배열 안의 값만 출력하려고 하는 경우를 가정한 출력 코드 
+		// 배열 안의 값만 출력하려고 하는 경우를 가정한 출력 코드
 /*
 		for (int i = 0; i < result.length; i++) {
 			System.out.print(result[i]);
