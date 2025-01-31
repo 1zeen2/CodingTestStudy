@@ -16,7 +16,7 @@ public class Solution {
 		long[] answer = new long[n];
 		
 		// 배열을 자동으로 초기화한 후 0번째 인덱스부터 마지막까지 인덱스(n - 1)까지 자동으로 값을 채워줌.
-		Arrays.setAll(answer, i -> (long) x * (i + 1));
+		Arrays.setAll(answer, i -> (long) x * (i + 1)); 
 		
 		return answer;
 	}
