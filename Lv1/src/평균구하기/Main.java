@@ -1,7 +1,6 @@
 package 평균구하기;
 
 public class Main {
-
 	public static void main(String[] args) {
 		Solution sol = new Solution();
 		
@@ -9,5 +8,4 @@ public class Main {
 		
 		System.out.println(sol.solution(arr));
 	}
-
 }
