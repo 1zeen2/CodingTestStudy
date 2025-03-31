@@ -4,6 +4,7 @@ import java.util.stream.IntStream;
 
 public class Solution {
 	public int solution(int[] a, int[] b) {
+		
 		if (a.length != b.length || a.length < 1 || 1000 < a.length) {
 			throw new IllegalArgumentException("a의 입력 값의 개수와 b의 입력 값의 개수는 같아야 하며 "
 											 + "각 입력 값의 개수는 1개 이상 1000개 이하만 가능합니다.");	
