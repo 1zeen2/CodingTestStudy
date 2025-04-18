@@ -13,6 +13,6 @@ public class Solution {
 			if (!Character.isDigit(s.charAt(i))) return false;
 		}
 		
-		return true;
+		return true; 
 	}
 }

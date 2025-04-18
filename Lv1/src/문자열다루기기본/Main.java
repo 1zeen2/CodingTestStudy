@@ -5,6 +5,6 @@ public class Main {
 	public static void main(String[] args) {
 		Solution sol = new Solution();
 		
-		System.out.println(sol.solution("123456"));
+		System.out.println(sol.solution("1236"));
 	}
 }
